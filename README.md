@@ -1,6 +1,8 @@
-# curso de react 
+# curso de react
 
 Este es un proyecto de react para el uso de la libreria.
 
 ## Notas del curso
-- Instalar GIT 
+
+- Instalar GIT
+- npm init -y
